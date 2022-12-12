@@ -1,0 +1,44 @@
+.jumbotron {
+    background-image: url("belly-button-bacteria.jpg");
+    background-size: cover;
+    height: 100%;
+   
+  }
+
+  .jumbotron h1{
+    color: yellowgreen
+    
+
+  }
+  .jumbotron p{
+    color: yellowgreen
+
+  }
+  .story{
+    background-image: url("microbes-sem.jpg");
+    opacity: 0.6;
+    background-color: rgb(245, 245, 241);
+  }
+  .story h1,p{
+    
+    color: yellow;
+  }
+  
+  .row{
+    background-color: rgb(245, 245, 241)
+  }
+
+  .bar
+  {
+    height: 60%;
+    width : 80%
+  }
+  .bubble
+  {
+    height: 60%;
+  }
+  .guage
+  {
+    height:auto;
+  }
+
